@@ -8,4 +8,4 @@
 
 ## 效果图
 
-![effect](D:\GitHub\Reverse-Geo-Coding\effect.jpg)
+![效果图](https://raw.githubusercontent.com/MuGuiLin/Reverse-Geo-Coding/main/effect.jpg)
